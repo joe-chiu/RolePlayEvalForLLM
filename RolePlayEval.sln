@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Llama2Adapter", "..\LocalGenAI\Llama2Adapter\Llama2Adapter.csproj", "{0BA23FC4-542E-46EB-A2DA-5954273FEC6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RolePlayEval", "RolePlayEval.csproj", "{5F39C7EF-57CC-4262-927A-DB2B12BD2617}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIDataContract", "..\LocalGenAI\AIDataContract\AIDataContract.csproj", "{019A46BC-F46D-48F1-91D6-B60DF67EF3F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA23FC4-542E-46EB-A2DA-5954273FEC6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA23FC4-542E-46EB-A2DA-5954273FEC6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA23FC4-542E-46EB-A2DA-5954273FEC6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA23FC4-542E-46EB-A2DA-5954273FEC6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F39C7EF-57CC-4262-927A-DB2B12BD2617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F39C7EF-57CC-4262-927A-DB2B12BD2617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F39C7EF-57CC-4262-927A-DB2B12BD2617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F39C7EF-57CC-4262-927A-DB2B12BD2617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{019A46BC-F46D-48F1-91D6-B60DF67EF3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{019A46BC-F46D-48F1-91D6-B60DF67EF3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{019A46BC-F46D-48F1-91D6-B60DF67EF3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{019A46BC-F46D-48F1-91D6-B60DF67EF3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
